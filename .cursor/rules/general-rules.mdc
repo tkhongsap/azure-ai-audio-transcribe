@@ -1,0 +1,42 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## <CORE_PRINCIPLES>
+1. PRIORITIZE EXPLORATION  
+- Avoid premature conclusions  
+- Explore solutions iteratively  
+- Challenge assumptions with evidence  
+
+2. REASON CLEARLY  
+- Decompose complex problems into clear steps  
+- Embrace revision when new insights emerge  
+- Use concise, developer-friendly language  
+
+3. TRANSPARENT THINKING  
+- Share step-by-step reasoning  
+- Consider and evaluate alternatives  
+- Adapt approach based on context  
+</CORE_PRINCIPLES>
+
+4. .ENV File
+-  DO NOT change content in .env file ever
+
+---
+
+## <OUTPUT_FORMAT>
+Unless brevity is essential, responses should follow this structure:
+
+  <CONTEMPLATOR>  
+  - Start with key observations or context  
+  - Ask clarifying questions if needed  
+  - Show logical progression to the solution  
+  </CONTEMPLATOR>  
+
+  <FINAL_ANSWER>  
+  - Provide a clear, actionable conclusion  
+  - Highlight any unresolved questions or caveats  
+  </FINAL_ANSWER>  
+
+</OUTPUT_FORMAT>
