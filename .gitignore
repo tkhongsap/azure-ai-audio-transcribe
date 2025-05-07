@@ -1,0 +1,63 @@
+# Ignore large files (>100MB)
+# Git LFS would be better for these, but this is a simple solution
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.mkv
+*.flac
+*.iso
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Ignore the output directory which likely contains large files
+output/
+
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE related
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Keep .gitignore for tracking
+!.gitignore 
