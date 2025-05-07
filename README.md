@@ -74,4 +74,4 @@ This project is available as open source under the terms of the [MIT License](ht
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. 
+Contributions are welcome! Please feel free to submit a Pull Request.
